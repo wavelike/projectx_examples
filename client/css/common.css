@@ -1,0 +1,18 @@
+.side-by-side {
+  display: flex;
+  flex-direction: row; }
+
+.my-container {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: 80px;
+  margin-left: 250px;
+  margin-top: 40px;
+  background-color: lime; }
+
+.my-container-border {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+  border: 1px solid; }
